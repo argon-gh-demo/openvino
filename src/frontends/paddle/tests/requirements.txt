@@ -1,0 +1,6 @@
+# PaddlePaddle - generate test models
+-c ../../../bindings/python/constraints.txt
+protobuf
+numpy
+six
+paddlepaddle
